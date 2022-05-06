@@ -1,5 +1,7 @@
 #!bin/python3
 
+# with rotational bounding box (prob not working)
+
 # import the necessary packages
 import pytesseract
 import numpy as np
